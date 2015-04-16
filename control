@@ -1,0 +1,8 @@
+Package: chromedriver
+Version: 2.15
+License: unknown
+Architecture: amd64
+Maintainer: Andrei Zbikowski <andrei.zbikowski@getbraintree.com>
+Section: default
+Priority: extra
+Description: ChromeDriver is a standalone server which implements WebDriver's wire protocol.
